@@ -21,4 +21,4 @@ assert.ok(anagram.isAnagram(b,a), b + ' and ' + a + ' should be anagram');
 assert.ok(anagram.isAnagram(d,e), d + ' and ' + e + ' should be anagram');
 assert.ok(anagram.isAnagram('апельсин', 'спаниель'), 'апельсин — спаниель should be anagram');
 
-console.log('All tests OK');
+console.log('Anagram: All tests OK.');

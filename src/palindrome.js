@@ -23,10 +23,9 @@ function getLargestP (s) {
         || l2;
 }
 
-console.log(getLargestP('asdfgfdsa'));
-console.log(getLargestP('12345sdfgfds789'));
-console.log(getLargestP('marambararab1234543qwe'));
-console.log(getLargestP('asdfgfdsa123'));
-console.log(getLargestP('asdfgfdsa1234567654321qwe'));
+module.exports = {
+    isPalindrome: isPalindrome,
+    getLargestP: getLargestP
+};
 
 //120

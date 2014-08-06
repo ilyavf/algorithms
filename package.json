@@ -4,7 +4,7 @@
   "description": "Different algorithms",
   "main": "anagram.js",
   "scripts": {
-    "test": "node ./src/anagram.test.js"
+    "test": "node ./src/anagram.test.js && node ./src/palindrome.test.js"
   },
   "author": "ilyavf",
   "license": "mit",
