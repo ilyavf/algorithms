@@ -1,7 +1,7 @@
 Algorithms
 ==========
 
-Just playing with some well-known algorithms...
+Just playing with some well-known challenges...
 
 ## Anagram:
 ```javascript
