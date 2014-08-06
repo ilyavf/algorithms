@@ -1,0 +1,14 @@
+{
+  "name": "algorithms",
+  "version": "0.0.1",
+  "description": "Different algorithms",
+  "main": "anagram.js",
+  "scripts": {
+    "test": "node ./src/anagram.test.js"
+  },
+  "author": "ilyavf",
+  "license": "mit",
+  "dependencies": {
+    "assert": "^1.1.1"
+  }
+}
