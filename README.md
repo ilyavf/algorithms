@@ -16,9 +16,6 @@ anagram.isAnagram('abcd', 'abcc');
 anagram.getHash('MARYYY');
 // >>> { M: 1, A: 1, R: 1, Y: 3 }
 
-anagram.compareHash({ M: 1, A: 1, R: 1, Y: 3 }, { A: 1, R: 1, M: 1, Y: 3 });
-// >>> true
-
 ```
 
 ## Largest Palindrome:
